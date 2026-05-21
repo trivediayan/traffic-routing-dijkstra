@@ -89,3 +89,4 @@ This project was engineered to be highly robust and user-friendly:
 * **No Folder path headaches**: It automatically figures out where your data CSVs are located, so you can run it from any terminal folder without path errors.
 * **Safe for multi-tasking**: The graph rendering uses safe isolated canvas flows, so it never mixes up graphs if multiple users load the page at the same time.
 * **Terminal-friendly**: Emojis are stripped from command-line outputs to prevent Windows terminal printing crashes.
+[🔗 Live Demo](https://traffic-routing-dijkstra-syzmqdhboyag4oexuoefbw.streamlit.app/)
